@@ -22,3 +22,8 @@ nav ul {
 .right-nav {
   display: flex;
 }
+
+#grid {
+  height: 22px;
+  width: 22px;
+}
