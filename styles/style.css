@@ -14,3 +14,11 @@ nav ul {
   justify-content: space-between;
   list-style-type: none;
 }
+
+.left-nav {
+  display: flex;
+}
+
+.right-nav {
+  display: flex;
+}
