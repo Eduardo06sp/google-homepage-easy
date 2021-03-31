@@ -32,6 +32,14 @@ main {
   width: 100%;
 }
 
+#search input {
+  border: 1px lightgrey solid;
+  border-radius: 50px;
+  height: 40px;
+  padding: 5px 25px;
+  width: 560px;
+}
+
 nav {
   height: 10%;
 }
