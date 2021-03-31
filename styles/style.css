@@ -20,11 +20,11 @@ main {
   display: flex;
   flex-direction: column;
   height: 100%;
-  padding-top: 7%;
 }
 
 #logo {
   height: 160px;
+  margin-top: 7%;
   width: 300px;
 }
 
