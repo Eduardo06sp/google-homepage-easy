@@ -14,16 +14,20 @@ body {
 }
 
 nav ul {
+  align-items: center;
   display: flex;
+  height: 60px;
   justify-content: space-between;
   list-style-type: none;
 }
 
 .left-nav {
+  align-items: center;
   display: flex;
 }
 
 .right-nav {
+  align-items: center;
   display: flex;
 }
 
