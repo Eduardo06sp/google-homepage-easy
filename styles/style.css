@@ -53,3 +53,18 @@ nav ul input {
   height: 38px;
   width: 95px;
 }
+
+footer ul {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+}
+
+.left-foot {
+  display: flex;
+}
+
+.right-foot {
+  display: flex;
+}
