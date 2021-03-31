@@ -88,6 +88,14 @@ footer ul li {
   display: flex;
 }
 
+.left-foot li:first-child {
+  margin-left: 30px;
+}
+
 .right-foot {
   display: flex;
+}
+
+.right-foot li:last-child {
+  margin-right: 30px;
 }
