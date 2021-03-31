@@ -31,6 +31,10 @@ nav ul li, nav ul img, nav ul input {
   display: flex;
 }
 
+.left-nav:first-child {
+  margin-left: 20px;
+}
+
 .right-nav {
   align-items: center;
   display: flex;
