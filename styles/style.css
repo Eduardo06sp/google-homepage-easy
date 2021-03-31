@@ -40,3 +40,12 @@ nav ul li, nav ul img, nav ul input {
   height: 22px;
   width: 22px;
 }
+
+nav ul input {
+  background-color: #1a73e8;
+  border: none;
+  border-radius: 6px;
+  color: white;
+  height: 38px;
+  width: 95px;
+}
