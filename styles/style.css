@@ -55,6 +55,10 @@ main {
   width: 134px;
 }
 
+.search-button:hover {
+  cursor: pointer;
+}
+
 a {
   text-decoration: none;
 }
@@ -98,6 +102,10 @@ nav ul li, nav ul img, nav ul input {
   width: 22px;
 }
 
+#grid:hover {
+  cursor: pointer;
+}
+
 nav ul input {
   background-color: #1a73e8;
   border: none;
@@ -105,6 +113,10 @@ nav ul input {
   color: white;
   height: 38px;
   width: 95px;
+}
+
+nav ul input:hover {
+  cursor: pointer;
 }
 
 footer {
