@@ -52,6 +52,14 @@ main {
   width: 134px;
 }
 
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: black;
+}
+
 nav {
   height: 10%;
 }
