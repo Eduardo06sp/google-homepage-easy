@@ -61,6 +61,10 @@ footer ul {
   list-style-type: none;
 }
 
+footer ul li {
+  margin: 14px;
+}
+
 .left-foot {
   display: flex;
 }
