@@ -40,6 +40,14 @@ main {
   width: 560px;
 }
 
+.search-button {
+  border: none;
+  border-radius: 2px;
+  background-color: #f8f9fa;
+  height: 36px;
+  width: 134px;
+}
+
 nav {
   height: 10%;
 }
