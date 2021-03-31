@@ -57,6 +57,7 @@ nav ul input {
 footer ul {
   align-items: center;
   display: flex;
+  height: 60px;
   justify-content: space-between;
   list-style-type: none;
 }
