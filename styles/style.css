@@ -40,6 +40,10 @@ main {
   width: 560px;
 }
 
+#search-buttons {
+  margin-top: 3%;
+}
+
 .search-button {
   border: none;
   border-radius: 2px;
